@@ -29,7 +29,7 @@ export class Navbar extends Component {
               className="nav-btn"
               onClick={this.handleToggle}
             >
-              <FaAlignRight className="" nav-icon />
+              <FaAlignRight className="nav-icon" />
             </button>
           </div>
           <ul
